@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "London", "Paris", "Madrid"],
+    "answer": 2
+  },
+  {
+    "question": "Which language runs in a web browser?",
+    "options": ["Java", "C", "Python", "JavaScript"],
+    "answer": 3
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Central Style Sheets",
+      "Cascading Style Sheets",
+      "Cascading Simple Sheets",
+      "Cars SUVs Sailboats"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which HTML tag is used to define a hyperlink?",
+    "options": ["<a>", "<link>", "<href>", "<url>"],
+    "answer": 0
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "Hyperlink Text Transfer Protocol",
+      "Home Tool Transfer Protocol",
+      "Hyper Transfer Text Protocol"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a JavaScript framework?",
+    "options": ["Laravel", "Django", "React", "Flask"],
+    "answer": 2
+  },
+  {
+    "question": "What year was JavaScript created?",
+    "options": ["1995", "2005", "1989", "2010"],
+    "answer": 0
+  },
+  {
+    "question": "Which symbol is used for comments in CSS?",
+    "options": ["//", "/* */", "#", "<!-- -->"],
+    "answer": 1
+  },
+  {
+    "question": "Which company developed the React library?",
+    "options": ["Google", "Microsoft", "Facebook", "Amazon"],
+    "answer": 2
+  },
+  {
+    "question": "Which one is not a programming language?",
+    "options": ["Python", "HTML", "Java", "C++"],
+    "answer": 1
+  },
+  {
+    "question": "Which method is used to add an element to the end of an array in JavaScript?",
+    "options": ["push()", "pop()", "shift()", "concat()"],
+    "answer": 0
+  },
+  {
+    "question": "What is the output of `typeof null` in JavaScript?",
+    "options": ["'object'", "'null'", "'undefined'", "'number'"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is used to style a website?",
+    "options": ["HTML", "CSS", "Python", "SQL"],
+    "answer": 1
+  }
+]
